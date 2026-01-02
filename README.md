@@ -17,10 +17,10 @@
 
 <br>
 
-- A Fullstack Web Developer
-- A Fivem Developer 
-- Currently learning Another Javascript framework
-- Personal website [link](https://www.zipry.site/)
+- 🔭 A **Fullstack Web Developer** & **FiveM Developer**
+- ⚙️ **Sysadmin** & **DevOps**
+- 🌱 Currently learning another JavaScript framework
+- 💻 Personal website: [zipry.site](https://www.zipry.site/)
 
 <br><br>
 
