@@ -117,7 +117,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Longziip&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Longziip&theme=tokyonight)
+
   
 
 <br>
