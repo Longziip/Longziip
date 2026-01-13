@@ -119,12 +119,8 @@
 <br>
 
 <div align="center">
-
-<a href="https://github.com/Longziip/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Longziip&show_icons=true&theme=transparent" width="450"/>
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Longziip&theme=tokyonight)
   
-
-</a>
 </div>
 
 <br>
